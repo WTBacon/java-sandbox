@@ -1,4 +1,4 @@
-package com.component;
+package com.future;
 
 public class RealPrinter implements Printer {
 
