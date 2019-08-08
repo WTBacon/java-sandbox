@@ -7,7 +7,7 @@ import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-public class completableFutureService {
+public class CompletableFutureService {
 
     public static void run() throws InterruptedException, ExecutionException {
 
